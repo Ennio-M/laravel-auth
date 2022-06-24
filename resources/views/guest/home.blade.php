@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="{{asset('css/front.css')}}">
-        <title>Laravel</title>
+        <title>Guest Home Page</title>
     </head>
     <body>
         <div class="flex-center position-ref full-height">
